@@ -1,10 +1,11 @@
 # About
  Ivan Rodriguez
- Data Scientist with a background in Online and Marketing Analytics
+ 
+ Data Scientist with a background in Online and Marketing Analytics.
  I have over 7+ years of analytics experience at large publicly traded companies and currently employed at a Fortune 200 company.
 
  **Contact**
- hmsrodriguez@outlook.com
+ hmsrodriguez@outlook.com,
  [LinkedIn Profile](https://www.linkedin.com/in/ivanrdz17/)
 
 
