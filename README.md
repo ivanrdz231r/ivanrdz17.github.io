@@ -9,9 +9,9 @@
 
 ### Work Experience
 - **Manager**, Marketing Science & Analytics @ WM
- - Marketing Data Pipeline
- - Marketing Lift Analysis
- - Ecomerce Targets Forecast & Planning
+  - Marketing Data Pipeline
+  - Marketing Lift Analysis
+  - Ecomerce Targets Forecast & Planning
 - **Sr. Analyst**, Online Business Innovation @ WM
 - **Manager**, Digital Marketing @ Stage Stores
 - **Sr. Analyst**, Marketing Analytics @ Ad Results Media
