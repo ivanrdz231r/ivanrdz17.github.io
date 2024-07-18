@@ -1,8 +1,8 @@
 # About
- Ivan Rodriguez
+ **Ivan Rodriguez**
  
  Data Scientist with a background in Online and Marketing Analytics.
- I have over 7+ years of analytics experience at large publicly traded companies and currently employed at a Fortune 200 company.
+ I have over 7+ years of analytics experience at large publicly traded companies and currently employed at WM, a Fortune 200 company and the bigest waste services providor in North America.
 
  **Contact**
  hmsrodriguez@outlook.com,
