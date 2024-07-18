@@ -24,7 +24,14 @@
 - Loan Status Approval Model
 - Rental Income Housing Market Analysis
 - Airline Safety - The Journey to Safer Skies
-- Texas High School Graduation Analysis
+
+#### Texas High School Graduation Analysis
+
+In this data science project, I aim to explore the potential impact of school location on graduation rates in the state of Texas. Specifically, we will investigate whether urban schools exhibit higher graduation rates compared to rural schools. By conducting a comprehensive analysis of graduation data from the Texas Education Agency state government body.
+
+![hs_grad](/assets/img/hs_grad.png)
+
+[Link to Repository](https://github.com/ivanrdz231r/portfolio/tree/main/projects/academic/Texas%20High%20School%20Graduation%20Analysis)
   
 #### K-Means Clustering for Sports Team Budgets
 
