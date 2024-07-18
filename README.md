@@ -3,11 +3,11 @@
 
 # Data Scientist
 
-### Education
+## Education
 - Data Science, MS
 - Business, MBA
 
-### Work Experience
+## Work Experience
 - **Manager**, Marketing Science & Analytics @ WM
   - Marketing Data Pipeline
   - Marketing Lift Analysis
@@ -15,7 +15,7 @@
 - **Manager**, Digital Marketing @ Stage Stores
 - **Sr. Analyst**, Marketing Analytics @ Ad Results Media
 
-### Academic Projects
+## Academic Projects
 - Identifying Marketing Lift of an Advertising Campaign
 - Automation of Online Cookie Classification
 - Predicting Future Price of TCG Boxes
@@ -25,7 +25,7 @@
 - Rental Income Housing Market Analysis
 - Airline Safety - The Journey to Safer Skies
 
-#### Texas High School Graduation Analysis
+#### **Texas High School Graduation Analysis**
 
 In this data science project, I aim to explore the potential impact of school location on graduation rates in the state of Texas. Specifically, we will investigate whether urban schools exhibit higher graduation rates compared to rural schools. By conducting a comprehensive analysis of graduation data from the Texas Education Agency state government body.
 
@@ -33,7 +33,7 @@ In this data science project, I aim to explore the potential impact of school lo
 
 [Link to Repository](https://github.com/ivanrdz231r/portfolio/tree/main/projects/academic/Texas%20High%20School%20Graduation%20Analysis)
   
-#### K-Means Clustering for Sports Team Budgets
+#### **K-Means Clustering for Sports Team Budgets**
 
 In sports there has always existed the saying that money buys championships. The idea here is that teams with higher budgets get more wins, and thus eventually championships. I wanted to test that saying by seeing if teams with similar budgets perform similarly in terms of wins.
 
