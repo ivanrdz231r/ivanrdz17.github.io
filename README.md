@@ -4,20 +4,17 @@
 # Data Scientist
 
 ### Education
-Data Science, MS
-Business, MBA
+- Data Science, MS
+- Business, MBA
 
 ### Work Experience
-**Manager**, Marketing Science & Analytics @ WM
-- Marketing Data Pipeline
-- Marketing Lift Analysis
-- Ecomerce Targets Forecast & Planning
-
-**Sr. Analyst**, Online Business Innovation @ WM
-
-**Manager**, Digital Marketing @ Stage Stores
-
-**Sr. Analyst**, Marketing Analytics @ Ad Results Media
+- **Manager**, Marketing Science & Analytics @ WM
+ - Marketing Data Pipeline
+ - Marketing Lift Analysis
+ - Ecomerce Targets Forecast & Planning
+- **Sr. Analyst**, Online Business Innovation @ WM
+- **Manager**, Digital Marketing @ Stage Stores
+- **Sr. Analyst**, Marketing Analytics @ Ad Results Media
 
 ### Academic Projects
 - Identifying Marketing Lift of an Advertising Campaign
