@@ -25,7 +25,8 @@
 - Rental Income Housing Market Analysis
 - Airline Safety - The Journey to Safer Skies
 - Texas High School Graduation Analysis
-- **K-Means Clustering for Sports Team Budgets**
+  
+#### K-Means Clustering for Sports Team Budgets
 
 In sports there has always existed the saying that money buys championships. The idea here is that teams with higher budgets get more wins, and thus eventually championships. I wanted to test that saying by seeing if teams with similar budgets perform similarly in terms of wins.
 
