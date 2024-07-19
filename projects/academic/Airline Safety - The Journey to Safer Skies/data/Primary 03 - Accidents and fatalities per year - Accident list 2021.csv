@@ -1,0 +1,39 @@
+#,Date,Type,Operator,Fatalities,"Ground
+fatalities",Flight type,Phase,Location,Country,"Category 
+(unconfirmed)"
+1,1/9/2021,Boeing 737-500,Sriwijaya Air,62,,Passenger,En route,off Jakarta,Indonesia,Loss of control
+2,3/2/2021,Let L-410,South Sudan Supreme,10,,Passenger,Initial climb,Pieri,South Sudan,Loss of control
+3,6/16/2021,Let L-410,Kin Avia,3,,Cargo,Initial climb,Bukavu,D.R.Congo,Loss of control
+4,7/6/2021,Antonov An-26B,Kamchatka AE,28,,Passenger,Approach,Palana,Russia,CFIT
+5,9/12/2021,Let L-410,Aeroservice,4,,Passenger,Approach,Kazachinskoye,Russia,CFIT
+6,9/15/2021,DHC-6 Twin Otter,Rimbun Air,3,,Cargo,Approach,near Bilogai/Sugapa,Indonesia,CFIT
+7,10/25/2021,Cessna 208B,Smart Aviation,1,,Cargo,Landing,Ilaga,Indonesia,
+8,11/2/2021,Antonov An-26B,Optimum Aviation,5,,Cargo,Initial climb,Juba,South Sudan,
+9,12/10/2021,Merlin IV,Castle Aviation,1,,Cargo,Approach,"Manchester, NH",USA,
+10,12/21/2021,Cessna 208B,Martinaire,1,1,Cargo,En route,"Fulshear, TX",USA,MAC
+11,12/23/2021,Shorts 360,Malu Aviation,5,,Cargo,En route,near Shabunda,D.R.Congo,
+,,,,123,0,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Non-commercial aircraft accidents,,,,,,,,,,
+1,3/1/2021,Beech B300,Beidahuang General Airlines,5,,Agricultural,Initial climb,Ji'an County,China,
+2,3/20/2021,Cessna 208B,Aeronav Air Services,2,,Survey,unknown,Marsabit,Kenya,
+3,6/19/2021,Let L-410,DOSAAF,5,,Parachuting,Initial climb,near Tanay,Russia,
+4,7/8/2021,Douglas DC-3,ALIANSA,3,,Training,unknown,near Villavicencio,Colombia,
+5,7/26/2021,Cessna 208,Skydive Binz,1,,Parachuting,Approach,near Norderney,Germany,
+6,8/17/2021,Ilyushin Il-112V,UAC,3,,Test,unknown,near Kubinka,Russia,
+7,9/22/2021,Antonov An-26,LPS,6,,Calibration,En route,near Khabarovsk,Russia,
+8,10/10/2021,Let L-410,DOSAAF,16,,Parachuting,Unknown,near Menzelinsk,Russia,
+9,11/3/2021,Antonov An-12,Grodno,9,,Ferry,Initial climb,Irkutsk,Russia,
+,,,,50,0,,,,,
+Military transport aircraft accidents,,,,,,,,,,
+1,1/12/2021,Yunshuji Y-12,Kenya Air Force,4,,Military,Unknown,near Voi,Kenya,
+2,1/unk/2021,Antonov An-2,North Korean Air Force,5,,Military,Initial climb,near Taechon,North Korea,
+3,2/21/2021,Beech B300,Nigerian Air Force,7,,Military,Approach,near Abuja,Nigeria,
+4,2/21/2021,Learjet 45XR,Mexican Air Force,6,,Military,Takeoff,Xalapa,Mexico,
+5,3/13/2021,Antonov An-26,Kazakh Border Service,4,,Military,Landing,Alamaty,Kazakhstan,
+6,5/21/2021,Beech B300,Nigerian Air Force,11,,Military,Approach,Kaduna,Nigeria,
+7,6/10/2021,Beech 1900,Myanmar Air Force,12,,Military,Approach,near Pyin Oo Lwin,Myanmar,
+8,7/4/2021,Lockheed C-130H,Philippine Air Force,49,3,Military,Landing,Jolo,Philippines,
+9,8/14/2021,Beriev Be-200ChS,Russian Navy,8,,Military,Maneuvering,Kahramanmaras,Turkey,
+,,,,106,3,,,,,

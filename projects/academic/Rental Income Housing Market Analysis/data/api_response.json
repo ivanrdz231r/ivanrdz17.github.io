@@ -1,0 +1,77 @@
+[
+    {
+        "msa/hcri": {
+            "api_code_description": "ok",
+            "api_code": 0,
+            "result": {
+                "gross_yield_average": 0.0661,
+                "gross_yield_median": 0.0643,
+                "gross_yield_count": 5047844
+            }
+        },
+        "msa_info": {
+            "msa": "35620",
+            "msa_name": "New York-Newark-Jersey City, NY-NJ-PA"
+        }
+    },
+    {
+        "msa/hcri": {
+            "api_code_description": "ok",
+            "api_code": 0,
+            "result": {
+                "gross_yield_average": 0.0523,
+                "gross_yield_median": 0.0506,
+                "gross_yield_count": 3005346
+            }
+        },
+        "msa_info": {
+            "msa": "31080",
+            "msa_name": "Los Angeles-Long Beach-Anaheim, CA"
+        }
+    },
+    {
+        "msa/hcri": {
+            "api_code_description": "ok",
+            "api_code": 0,
+            "result": {
+                "gross_yield_average": 0.0996,
+                "gross_yield_median": 0.0956,
+                "gross_yield_count": 3121132
+            }
+        },
+        "msa_info": {
+            "msa": "16980",
+            "msa_name": "Chicago-Naperville-Elgin, IL-IN-WI"
+        }
+    },
+    {
+        "msa/hcri": {
+            "api_code_description": "ok",
+            "api_code": 0,
+            "result": {
+                "gross_yield_average": 0.0828,
+                "gross_yield_median": 0.0814,
+                "gross_yield_count": 2273489
+            }
+        },
+        "msa_info": {
+            "msa": "19100",
+            "msa_name": "Dallas-Fort Worth-Arlington, TX"
+        }
+    },
+    {
+        "msa/hcri": {
+            "api_code_description": "ok",
+            "api_code": 0,
+            "result": {
+                "gross_yield_average": 0.0904,
+                "gross_yield_median": 0.0893,
+                "gross_yield_count": 2253476
+            }
+        },
+        "msa_info": {
+            "msa": "26420",
+            "msa_name": "Houston-The Woodlands-Sugar Land, TX"
+        }
+    }
+]
