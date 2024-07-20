@@ -33,6 +33,10 @@
 - Rental Income Housing Market Analysis
 - Airline Safety - The Journey to Safer Skies
 
+### **Airline Safety - Public Facing Analytics
+
+This project highlights various skils required to communicate analytical findings to the public.
+
 #### **Texas High School Graduation Analysis**
 
 In this data science project, I aim to explore the potential impact of school location on graduation rates in the state of Texas. Specifically, we will investigate whether urban schools exhibit higher graduation rates compared to rural schools. By conducting a comprehensive analysis of graduation data from the Texas Education Agency state government body.
